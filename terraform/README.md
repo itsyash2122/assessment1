@@ -12,6 +12,7 @@ terraform apply
 
 
 
+
 TO delete the infrastructure please run the below commad.
 
 terraform destroy
