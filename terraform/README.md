@@ -5,8 +5,11 @@ Then,
 Run the following command:
 
 terraform init
+
 terraform validate
+
 terraform plan
+
 terraform apply
 
 
