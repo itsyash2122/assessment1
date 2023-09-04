@@ -1,3 +1,4 @@
+
 Update the database passwords in the rds.tf and also vars.tf according to your variables.
 Then,
 
